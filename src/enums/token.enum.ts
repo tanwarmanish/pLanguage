@@ -1,0 +1,6 @@
+export enum TOKEN {
+	NUMBER = 1,
+	LETTER,
+	STRING,
+	PARENTHESIS,
+}
